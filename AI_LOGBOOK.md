@@ -73,4 +73,5 @@ Melalui pengerjaan proyek **PhysLab 10**, tim kami memahami cara kerja arsitektu
 * **Validasi & Modifikasi Mandiri:**  
   - Kami menguji logika rangkaian seri dan paralel pada modul Listrik, termasuk skenario *overload* (arus > 2,5 A) yang memutus filamen lampu.  
   - Kami menguji perubahan kutub magnet (U-S) pada modul Elektromagnet serta simpangan jarum Galvanometer pada modul Induksi Faraday.  
-  - Kami memperbarui berkas `sw.js` ke versi `v5` dan menguji seluruh 9 halaman dalam mode *offline* serta memperbarui `README.md`.
+  - Kami memperbarui berkas `sw.js` ke versi `v8` dan menguji seluruh 9 halaman dalam mode *offline* serta memperbarui `README.md`.
+  - Halaman ini mendukung mode offline otomatis. Setelah kunjungan pertama dengan koneksi internet. Seluruh isi halaman ini tetap dapat diakses meskipun perangkat Anda sedang offline.
